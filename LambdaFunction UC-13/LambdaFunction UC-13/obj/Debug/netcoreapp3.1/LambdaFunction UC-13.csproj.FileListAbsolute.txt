@@ -1,0 +1,13 @@
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\bin\Debug\netcoreapp3.1\LambdaFunction UC-13.exe
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\bin\Debug\netcoreapp3.1\LambdaFunction UC-13.deps.json
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\bin\Debug\netcoreapp3.1\LambdaFunction UC-13.runtimeconfig.json
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\bin\Debug\netcoreapp3.1\LambdaFunction UC-13.runtimeconfig.dev.json
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\bin\Debug\netcoreapp3.1\LambdaFunction UC-13.dll
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\bin\Debug\netcoreapp3.1\LambdaFunction UC-13.pdb
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.csproj.AssemblyReference.cache
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.AssemblyInfoInputs.cache
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.AssemblyInfo.cs
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.csproj.CoreCompileInputs.cache
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.dll
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.pdb
+C:\Users\kisho\Lambda Function\LambdaFunction UC-13\LambdaFunction UC-13\obj\Debug\netcoreapp3.1\LambdaFunction UC-13.genruntimeconfig.cache
